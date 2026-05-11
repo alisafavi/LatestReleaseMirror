@@ -157,33 +157,40 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="karingx--karing"></div>
+<div id="iampedii--whitedns"></div>
 
-### KaringX--karing
+### iampedii--WhiteDNS
 
-🔗 [source](https://github.com/KaringX/karing) – [<code><small>v1.2.18.2102</small></code>](https://github.com/KaringX/karing/releases/tag/v1.2.18.2102)
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.1.0</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.1.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `karing_1.2.18.2102_android_arm.apk` | 89.5 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_arm.apk) |
-| `karing_1.2.18.2102_android_arm64-v8a.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_arm64-v8a.apk) |
-| `karing_1.2.18.2102_android_armeabi-v7a.apk` | 53.4 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_android_armeabi-v7a.apk) |
-| `karing_1.2.18.2102_linux_amd64.AppImage` | 69.8 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_linux_amd64.AppImage) |
-| `karing_1.2.18.2102_linux_amd64.deb` | 48.4 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_linux_amd64.deb) |
-| `karing_1.2.18.2102_linux_amd64.rpm` | 52.2 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_linux_amd64.rpm) |
-| `karing_1.2.18.2102_macos_universal.dmg` | 91.0 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_macos_universal.dmg) |
-| `karing_1.2.18.2102_windows_x64.exe` | 43.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.exe) |
-| `karing_1.2.18.2102_windows_x64.zip` | 62.0 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/KaringX/karing/karing_1.2.18.2102_windows_x64.zip) |
+| `WhiteDNS-1.1.0-arm64-v8a.apk` | 5.0 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-arm64-v8a.apk) |
+| `WhiteDNS-1.1.0-arm64-v8a.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-arm64-v8a.apk.idsig) |
+| `WhiteDNS-1.1.0-armeabi-v7a.apk` | 4.9 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-armeabi-v7a.apk) |
+| `WhiteDNS-1.1.0-armeabi-v7a.apk.idsig` | 46 KB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-armeabi-v7a.apk.idsig) |
+| `WhiteDNS-1.1.0-universal.apk` | 16.2 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-universal.apk) |
+| `WhiteDNS-1.1.0-universal.apk.idsig` | 138 KB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-universal.apk.idsig) |
+| `WhiteDNS-1.1.0-x86.apk` | 5.5 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86.apk) |
+| `WhiteDNS-1.1.0-x86.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86.apk.idsig) |
+| `WhiteDNS-1.1.0-x86_64.apk` | 5.3 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86_64.apk) |
+| `WhiteDNS-1.1.0-x86_64.apk.idsig` | 50 KB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.1.0-x86_64.apk.idsig) |
 
 ---
 
-<div id="thisisdara--mhr-cfw-go"></div>
+<div id="kamalalhagh--kevinnet-dns"></div>
 
-### ThisIsDara--mhr-cfw-go
+### kamalalhagh--kevinnet-dns
 
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.1.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.1.0)
+🔗 [source](https://github.com/kamalalhagh/kevinnet-dns) – [<code><small>v3.2.2</small></code>](https://github.com/kamalalhagh/kevinnet-dns/releases/tag/v3.2.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhr-cfw-go.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go.exe) |
+| `KevinNet_Linux_ARM64` | 37.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Linux_ARM64) |
+| `KevinNet_Linux_x64` | 39.9 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Linux_x64) |
+| `KevinNet_Windows_ARM64.exe` | 21.4 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Windows_ARM64.exe) |
+| `KevinNet_Windows_x64.exe` | 26.4 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_Windows_x64.exe) |
+| `KevinNet_macOS_Intel` | 23.5 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_macOS_Intel) |
+| `KevinNet_macOS_Universal` | 45.2 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_macOS_Universal) |
+| `KevinNet_macOS_arm64` | 21.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/kamalalhagh/kevinnet-dns/KevinNet_macOS_arm64) |
 <!-- RELEASES_END -->
