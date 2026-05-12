@@ -157,15 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
-<div id="thisisdara--mhr-cfw-go"></div>
+<div id="maxifan--tunnelx"></div>
 
-### ThisIsDara--mhr-cfw-go
+### MaxiFan--TunnelX
 
-🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.3.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.3.0)
+🔗 [source](https://github.com/MaxiFan/TunnelX) – [<code><small>v1.2.23</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v1.2.23)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhr-cfw-go-windows-386.exe` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-386.exe) |
-| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
-| `mhr-cfw-go-windows-arm64.exe` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-arm64.exe) |
+| `TunnelX-v1.2.23-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/TunnelX-v1.2.23-standalone-compressed.exe.sha256) |
 <!-- RELEASES_END -->
