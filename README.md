@@ -161,9 +161,9 @@ sha256sum FILE_NAME
 
 ### MaxiFan--TunnelX
 
-🔗 [source](https://github.com/MaxiFan/TunnelX) – [<code><small>v1.2.23</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v1.2.23)
+🔗 [source](https://github.com/MaxiFan/TunnelX) – [<code><small>v1.2.24</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v1.2.24)
 
 | File | Size | Download |
 |------|------|----------|
-| `TunnelX-v1.2.23-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/TunnelX-v1.2.23-standalone-compressed.exe.sha256) |
+| `TunnelX-v1.2.24-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/alisafavi/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/TunnelX-v1.2.24-standalone-compressed.exe.sha256) |
 <!-- RELEASES_END -->
